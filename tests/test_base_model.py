@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Defines unittests for models/base_model.py."""
+"""Defines tests for models/base_model.py."""
 from models.base_model import BaseModel
 
 my_model = BaseModel()

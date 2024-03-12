@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""Define tests for object creation of models/base_model.py"""
 from models import storage
 from models.base_model import BaseModel
 
